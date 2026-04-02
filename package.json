@@ -1,0 +1,30 @@
+{
+  "name": "aviral-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio website for Aviral Chauhan featuring sports, fictional books, calisthenics, and movies with animations.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process not defined yet.'"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "animations",
+    "sports",
+    "books",
+    "calisthenics",
+    "movies"
+  ],
+  "author": "Aviral Chauhan",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://your-portfolio-url.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/aviral-portfolio.git"
+  }
+}
